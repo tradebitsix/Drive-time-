@@ -2,4 +2,6 @@ fastapi==0.109.0
 uvicorn==0.25.0
 pydantic==1.10.13
 python-jose[cryptography]==3.3.0
-passlib[bcrypt]==1.7.4python-multipart==0.0.9
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+bcrypt
