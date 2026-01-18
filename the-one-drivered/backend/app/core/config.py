@@ -6,7 +6,7 @@ configuration files, but for this demonstration we define sane
 defaults here.
 """
 
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
